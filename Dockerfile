@@ -1,4 +1,4 @@
-FROM neo4j:2.3.2
+FROM neo4j:3.0.6
 
 MAINTAINER Levi Wilson
 
